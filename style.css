@@ -97,15 +97,6 @@ button:hover {
     overflow-x: hidden;
   }
 
-  .main-page {
-    background: rgba(73, 117, 72, 0.8);
-    background-image: url(/images/team-business.jpg);
-    height: 100%;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-blend-mode: multiply;
-  }
-
   .main-page h1 {
     font-size: 40px;
     margin-top: 30px;
