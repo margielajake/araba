@@ -129,3 +129,14 @@ button:hover {
     margin-bottom: 20px;
   }
 }
+
+/* @media (orientation: landscape) {
+  .main-page {
+    max-width: 100%;
+    display: block;
+  }
+
+  button {
+    margin-bottom: 20px;
+  }
+} */
